@@ -1,3 +1,6 @@
 module.exports = {
-  lintOnSave: false
+  lintOnSave: false,
+  devServer: {
+    port: process.env.PORT || 3000
+  }
 };
