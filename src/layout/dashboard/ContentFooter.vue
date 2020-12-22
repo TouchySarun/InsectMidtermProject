@@ -4,7 +4,7 @@
       <nav>
         <ul>
           <li>
-            <router-link :to="{path:'/dashboard'}">Dashboard</router-link>
+            <a href="https://www.cheminpestcontrol.com/products/product-35">ขอขอบคูณแหล่งที่มา</a>
           </li>
         </ul>
       </nav>
