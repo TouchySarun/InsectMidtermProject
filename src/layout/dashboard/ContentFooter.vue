@@ -12,7 +12,7 @@
         &copy; Coded with
         <i class="fa fa-heart heart"></i> by
         Sarun Suesuwan &nbsp;<a href="#">#600610777</a>&nbsp;
-        View Code at &nbsp;<a href="https://www.creative-tim.com/?ref=pdf-vuejs">&nbsp; GitHub.com</a>
+        View Code at &nbsp;<a href="https://github.com/TouchySarun/InsectMidtermProject">&nbsp; GitHub.com</a>
       </div>
     </div>
   </footer>
